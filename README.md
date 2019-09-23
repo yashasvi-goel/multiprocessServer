@@ -23,6 +23,6 @@ He sends a response, which is received at the client side.
 
 Also this response is saved into our response file(*responses.json*).
 
-###Running multiple clients:
+### Running multiple clients:
 
 Run multiple instances of *client.py* from different terminals.
