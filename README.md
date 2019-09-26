@@ -7,7 +7,17 @@ If the requested input is not found, a human responds.
 
 `$ python3 datasetGenerator.py`
 
+`Enter keyword`
+
+(Enter your desired keyword)(Enter 'close' to exit)
+
+`Enter Response`
+
+(Enter your expected output)
+
 Created the set of  responses.
+
+The following steps must be done in this order:
 
 **Terminal 1:**`$ python3 humanServing.py`
 
