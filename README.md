@@ -1,6 +1,6 @@
 # Multiprocess Chat Support System
 
-Python program that serves multiple clients parallely, based on predefined input and output.
+Python program that serves multiple clients parallely, based on user-defined input and output.
 If the requested input is not found, a human responds.
 
 ## How to Use:
