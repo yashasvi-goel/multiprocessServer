@@ -5,6 +5,8 @@ If the requested input is not found, a human responds.
 
 ## How to Use:
 
+Use Python 3.6.8
+
 `$ python3 datasetGenerator.py`
 
 `Enter keyword`
